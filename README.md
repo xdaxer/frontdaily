@@ -19,6 +19,6 @@ Your feedback is highly valuable! If you have any suggestions or ideas for impro
 
 - Web Site: [xdaxer.github.io](https://xdaxer.github.io/)
 - Email: [abdullahyirik@outloook.com](mailto:abdullahyirik@outlook.com)
-- LinkedIn: [Abdullah Yirik](https://www.linkedin.com/in/daxer/)
+- LinkedIn: [Abdullah Yirik](www.linkedin.com/in/abdullahyirik)
 
 Thank you for visiting this repository!
