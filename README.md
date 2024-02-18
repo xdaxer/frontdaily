@@ -8,7 +8,9 @@ Each project in this repository is created daily, following design inspirations 
 
 ## Project List
 
-1. Project Name - Demo Link
+1.  Biling Page - [Demo](https://xdaxer.github.io/demos/frontdaily/1-Biling-Page/)
+   <img src="https://xdaxer.github.io/frontdaily-cover/1-Biling-Page.png">
+
 
 
 ## Feedback
