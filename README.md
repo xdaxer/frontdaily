@@ -9,14 +9,14 @@ Each project in this repository is created daily, following design inspirations 
 ## Project List
 
 1.  Biling Landing Page - [Demo](https://xdaxer.github.io/demos/frontdaily/1-Biling-Page/)
-   <br>
+
     <img src="https://xdaxer.github.io/frontdaily-cover/1-Biling-Page.png">
 
     <br>
     <br>
 
 2.  Product Info Components- [Demo](https://xdaxer.github.io/demos/frontdaily/2-Product-Info-Component/)
-    <br>
+
     <img src="https://xdaxer.github.io/frontdaily-cover/2-Product-Info.png">
 
 ## Feedback
