@@ -12,7 +12,7 @@ Each project in this repository is created daily, following design inspirations 
     <img src="https://xdaxer.github.io/frontdaily-cover/1-Biling-Page.png">
 
 2.  Product Info Components- [Demo](https://xdaxer.github.io/demos/frontdaily/2-Product-Info-Component/)
-    <img src="https://xdaxer.github.io/frontdaily-cover/2-Product-Info-Component.png">
+    <img src="https://xdaxer.github.io/frontdaily-cover/2-Product-Info.png">
 
 ## Feedback
 
