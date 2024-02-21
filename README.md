@@ -26,6 +26,13 @@ Each project in this repository is created daily, following design inspirations 
 
     <img src="https://xdaxer.github.io/frontdaily-cover/3-Pricing-Card.png">
 
+    <br>
+    <br>
+
+4.  [Pricing Card Component](https://github.com/xdaxer/frontdaily/tree/main/4-Not-Found-404)- [Demo](https://xdaxer.github.io/demos/frontdaily/4-Not-Found-404/)
+
+<img src="https://xdaxer.github.io/frontdaily-cover/4-Not-Found-404.png">
+
 ## Feedback
 
 Your feedback is highly valuable! If you have any suggestions or ideas for improvement, please don't hesitate to reach out.
