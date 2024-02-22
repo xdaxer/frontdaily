@@ -29,9 +29,16 @@ Each project in this repository is created daily, following design inspirations 
     <br>
     <br>
 
-4.  [Pricing Card Component](https://github.com/xdaxer/frontdaily/tree/main/4-Not-Found-404)- [Demo](https://xdaxer.github.io/demos/frontdaily/4-Not-Found-404/)
+4.  [404 Page](https://github.com/xdaxer/frontdaily/tree/main/4-Not-Found-404)- [Demo](https://xdaxer.github.io/demos/frontdaily/4-Not-Found-404/)
 
 <img src="https://xdaxer.github.io/frontdaily-cover/4-Not-Found-404.png">
+
+<br>
+<br>
+
+5.  [Login Page](https://github.com/xdaxer/frontdaily/tree/main/5-Login-Page)- [Demo](https://xdaxer.github.io/demos/frontdaily/5-Login-Page/)
+
+<img src="https://xdaxer.github.io/frontdaily-cover/5-Login-Page.png">
 
 ## Feedback
 
