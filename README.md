@@ -40,6 +40,13 @@ Each project in this repository is created daily, following design inspirations 
 
 <img src="https://xdaxer.github.io/frontdaily-cover/5-Login-Page.png">
 
+<br>
+<br>
+
+6.  [Cookies-Widget](https://github.com/xdaxer/frontdaily/tree/main/6-Cookies-Widget)- [Demo](https://xdaxer.github.io/demos/frontdaily/6-Cookies-Widget/)
+
+<img src="https://xdaxer.github.io/frontdaily-cover/6-Cookies-Widget.png">
+
 ## Feedback
 
 Your feedback is highly valuable! If you have any suggestions or ideas for improvement, please don't hesitate to reach out.
