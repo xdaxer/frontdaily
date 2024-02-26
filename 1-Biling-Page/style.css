@@ -9,6 +9,7 @@
   --Element-Selected: #fff;
   --Aside-Background: #f8f8ff;
   --Shadow: #726666;
+  --Table-Title-Color: #62618f;
 
   /* Font Settings */
 
@@ -191,7 +192,7 @@ th {
 
 tr:first-child td,
 tr:first-child th {
-  color: #62618f; /* veya istediğiniz renk */
+  color: var(--Table-Title-Color);
 }
 
 button {

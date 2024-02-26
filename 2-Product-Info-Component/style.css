@@ -7,6 +7,7 @@
   --backgroundColor: #ffffff;
   --MainColor: #060608;
   --ButtonColor: #4788e9;
+  --Status: #00d98b;
 
   /* Font Settings */
 
@@ -148,7 +149,7 @@ body {
 .status .statuscolor {
   width: 4rem;
   height: 4rem;
-  background-color: #00d98b;
+  background-color: var(--Status);
   border-radius: 50%;
   flex-shrink: 1;
 }

@@ -8,6 +8,7 @@
   --ContainerColor: #ffffff;
   --TextColor: #636185;
   --ButtonColor: #f5f1f1;
+  --Title: #d3d5e6;
 
   /* Font Settings */
 
@@ -78,7 +79,7 @@ body {
 /*? 404 */
 
 .container h1 {
-  color: #d3d5e6;
+  color: var(--Title);
   font-size: 45rem;
   font-weight: var(--Font-Bold-Weight);
 }

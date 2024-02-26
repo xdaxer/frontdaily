@@ -5,7 +5,7 @@
 
   /* Color Settings */
   --backgroundColor: linear-gradient(#352e3d, #5c4b70);
-  --ContainerColor: #ffffff;
+  --ContainerColor: #302938;
   --TextColor: #636185;
   --MainColor: #302938;
   --Input-Color: #352e3d;
@@ -58,7 +58,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 8rem;
-  background-color: var(--MainColor);
+  background-color: var(--ContainerColor);
   width: 129rem;
   height: 154rem;
   justify-content: space-around;
@@ -157,6 +157,7 @@ p {
 }
 
 a {
-  color: #8e80f5;
+  color: var(--TextColor);
+  text-shadow: #8e80f541 1px 1px;
   text-decoration: none;
 }
